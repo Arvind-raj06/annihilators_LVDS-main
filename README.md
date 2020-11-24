@@ -1,1 +1,3 @@
-# annihilators_LVDS-main
+# annihilators_LVDS
+download yolov3-320 weight file 
+https://pjreddie.com/media/files/yolov3.weights
